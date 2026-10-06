@@ -1,0 +1,5 @@
+matmul_omp.exe
+A_*.txt
+B_*.txt
+C_*.txt
+*.o
